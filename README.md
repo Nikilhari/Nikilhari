@@ -21,7 +21,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Nikilhari&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikilhari&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikilhari&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
